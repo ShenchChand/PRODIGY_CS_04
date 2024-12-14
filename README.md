@@ -22,3 +22,7 @@ Install the pynput library if not already installed:
 
 ###
      
+Ethical Considerations
+
+    Obtain Explicit Consent: Keylogging across systems could be considered intrusive. Only perform this setup in environments where you have permission.
+    Use for Educational Purposes: This exercise should be limited to controlled, ethical scenarios like learning or debugging.
